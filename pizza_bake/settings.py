@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    # external packages
+    'rest_framework',
     # installed apps
     'pizza_menu',
 ]
